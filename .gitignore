@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+build/
+out/
+.output/
+.wxt/
+.DS_Store
+Thumbs.db
+temp/
+tmp/
+/.docs/
+/AGENTS.md
